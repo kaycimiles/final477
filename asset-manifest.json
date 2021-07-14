@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kmiles20/final477/static/css/main.5c3ae9e9.chunk.css",
+    "main.js": "/kmiles20/final477/static/js/main.9c097cc8.chunk.js",
+    "main.js.map": "/kmiles20/final477/static/js/main.9c097cc8.chunk.js.map",
+    "runtime-main.js": "/kmiles20/final477/static/js/runtime-main.a010fb69.js",
+    "runtime-main.js.map": "/kmiles20/final477/static/js/runtime-main.a010fb69.js.map",
+    "static/js/2.d4c1942a.chunk.js": "/kmiles20/final477/static/js/2.d4c1942a.chunk.js",
+    "static/js/2.d4c1942a.chunk.js.map": "/kmiles20/final477/static/js/2.d4c1942a.chunk.js.map",
+    "static/js/3.f8210a11.chunk.js": "/kmiles20/final477/static/js/3.f8210a11.chunk.js",
+    "static/js/3.f8210a11.chunk.js.map": "/kmiles20/final477/static/js/3.f8210a11.chunk.js.map",
+    "index.html": "/kmiles20/final477/index.html",
+    "static/css/main.5c3ae9e9.chunk.css.map": "/kmiles20/final477/static/css/main.5c3ae9e9.chunk.css.map",
+    "static/js/2.d4c1942a.chunk.js.LICENSE.txt": "/kmiles20/final477/static/js/2.d4c1942a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kmiles20/final477/static/media/warm.acaf8f0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a010fb69.js",
+    "static/js/2.d4c1942a.chunk.js",
+    "static/css/main.5c3ae9e9.chunk.css",
+    "static/js/main.9c097cc8.chunk.js"
+  ]
+}
